@@ -17,7 +17,7 @@ Plant photosynthesis is part of the carbon cycle. Plant use energy from sunlight
 ### Calvin cycle - C3 pathway
 CO2 is added to a phosphorylated 5-carbon sugar, ribulose biphosphate. This reaction is catalyzed by the enzyme ribulose biphosphate carboxylase oxygenase (RUBISCO). The resulting 6-carbon compoung breaks down into 2 molecules of 3-phosphoglyceric acid (PGA). These are used to produce gulcose and other food.
 ### Photorespiration
-RUBISCO can also add O2 to ribulose biphosphate liberating CO2 in the process. High light intensities and high ]temperatures (above ~ 30 C) favor this process over photosynthesis.
+RUBISCO can also add O2 to ribulose biphosphate liberating CO2 in the process. High light intensities and high temperatures (above ~ 30 C) favor this process over photosynthesis.
 ### C4 plants
 C4 plant minimize losses to photorespiration. In mesophyll cells of C4 plants CO2 is added to 3-carbon phosphoenolpyruvic acid (PEP) to form 4-carbon oxaloacetic acid (C4).This is converted to malic or aspartic acid and tranported into a bundle sheath cell. These cells are often deep in the leaf with low levels of oxygen. In the sheath cells the 4-carbon acids are broken down into CO2 which enters the Calvin cycle or pyruvic acid which is transported back to a mesophyll cell where it is converted back into PEP.
  * crassulacean acid metabolism (CAM) plants segregate C4 and C3 pathways in time
