@@ -8,21 +8,22 @@ output: slidy_presentation
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-## Why is it important?
-Plant photosynthesis is part of the carbon cycle. Plant use energy from sunlight to combine CO2 and H2O to form carbohydrates. Oxygen O2 is released as a byproduct.
 
-## NDVI
+## Why is it important?
+Plant photosynthesis is part of the carbon cycle. Plants use energy from sunlight to combine carbon dioxide (CO<sub>2</sub>) and water  (H<sub>2</sub>O) to form carbohydrates. Oxygen (O<sub>2</sub>) is released as a byproduct.
 
 ## Photosynthesis
 ### Calvin cycle - C3 pathway
-CO2 is added to a phosphorylated 5-carbon sugar, ribulose biphosphate. This reaction is catalyzed by the enzyme ribulose biphosphate carboxylase oxygenase (RUBISCO). The resulting 6-carbon compoung breaks down into 2 molecules of 3-phosphoglyceric acid (PGA). These are used to produce gulcose and other food.
+CO<sub>2</sub> is added to a phosphorylated 5-carbon sugar, ribulose biphosphate. This reaction is catalyzed by the enzyme ribulose biphosphate carboxylase oxygenase (RUBISCO). The resulting 6-carbon compound breaks down into 2 molecules of 3-phosphoglyceric acid (PGA). These are used to produce glucose and other food.
+
 ### Photorespiration
-RUBISCO can also add O2 to ribulose biphosphate liberating CO2 in the process. High light intensities and high temperatures (above ~ 30 C) favor this process over photosynthesis.
+RUBISCO can also add O<sub>2</sub> to ribulose biphosphate liberating CO<sub>2</sub> in the process. High light intensities and high temperatures (above ~ 30 C) favor this process over photosynthesis.
+
 ### C4 plants
-C4 plant minimize losses to photorespiration. In mesophyll cells of C4 plants CO2 is added to 3-carbon phosphoenolpyruvic acid (PEP) to form 4-carbon oxaloacetic acid (C4).This is converted to malic or aspartic acid and tranported into a bundle sheath cell. These cells are often deep in the leaf with low levels of oxygen. In the sheath cells the 4-carbon acids are broken down into CO2 which enters the Calvin cycle or pyruvic acid which is transported back to a mesophyll cell where it is converted back into PEP.
+C4 plants minimize losses to photorespiration. In mesophyll cells of C4 plants CO<sub>2</sub> is added to 3-carbon phosphoenolpyruvic acid (PEP) to form 4-carbon oxaloacetic acid (C4).This is converted to malic or aspartic acid and tranported into a bundle sheath cell. These cells are often deep in the leaf with low levels of oxygen. In the sheath cells the 4-carbon acids are broken down into CO<sub>2</sub> which enters the Calvin cycle or pyruvic acid which is transported back to a mesophyll cell where it is converted back into PEP.
  * crassulacean acid metabolism (CAM) plants segregate C4 and C3 pathways in time
- - at night they take in CO2 through their stomata and produce malic acid
- - in the morning stomata close and malic acid is broken down to release CO2 to the Calvin (C3) cycle
+ - at night they take in CO<sub>2</sub> through their stomata and produce malic acid
+ - in the morning stomata close and malic acid is broken down to release CO<sub>2</sub> to the Calvin (C3) cycle
  - cacti, Bryophyllum, pineapple, sedums, "ice plant" are well adapted to high temperatures and sunlight and low moisture
  * other plants segregate these pathways in different parts of the leaf
  - tobacco has C4 cells near veins
