@@ -28,6 +28,10 @@ C4 plant minimize losses to photorespiration. In mesophyll cells of C4 plants CO
  - tobacco has C4 cells near veins
 
 ## RPi and NoIR camera
+
+To run in background independent of remote login:
+setsid python noir.py < /dev/zero &> noir_log
+
 ## Results
 
 
