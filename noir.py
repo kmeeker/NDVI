@@ -1,15 +1,16 @@
 # imports
 
 import picamera
+import time 
 from time import sleep
 import subprocess
-import time 
+from subprocess import call
 
 # configuration
 
 camera = picamera.PiCamera()
+
 delay = 3599
-from subprocess import call
 
 for i in range(1,24):
     timestr = time.strftime("%Y%m%d-%H%M")
