@@ -2,8 +2,8 @@
 title: "Plant Photosynthesis Measurement using RPi NoIR Camera - <small> https://github.com/kmeeker/NDVI </small>"
 author: "Kirsten Meeker" 
 date: "Oct 1, 2016"
-output: html_document
-<!--- output: slidy_presentation --->
+<!--- output: html_document --->
+output: slidy_presentation
 ---
 
 <style>
@@ -90,7 +90,8 @@ In mesophyll cells of C<sub>4</sub> plants CO<sub>2</sub> is added to 3-carbon p
 Transpiration is the process of water movement through a plant and its evaporation from aerial parts, such as leaves, stems and flowers. Water is necessary for plants but only a small amount of water taken up by the roots is used for growth and metabolism. The remaining 97-99.5% is lost by transpiration and guttation.
 https://en.wikipedia.org/wiki/Transpiration
 
-<center>![alt text](figures/evapotranspiration.gif)</center>   
+<center>![alt text](figures/evapotranspiration.gif) 
+<small> http://www.salinitymanagement.org/Salinity%20Management%20Guide/ew/ew_2.html </small> </center>
 
 ---
 
@@ -128,10 +129,20 @@ cron
 
 </div>
 
+---
+
 ## Photos
-![alt text](with_blue_filter/image20160921-0700.jpg) ![alt text](with_blue_filter/ndvi_image20160921-0700.jpg)
-![alt text](with_blue_filter/image20160921-1203.jpg) ![alt text](with_blue_filter/ndvi_image20160921-1203.jpg) 
-![alt text](with_blue_filter/image20160921-1707.jpg) ![alt text](with_blue_filter/ndvi_image20160921-1707.jpg)
+### 7:00 AM     
+
+![alt text](with_blue_filter/image20160921-0700sc.jpg) ![alt text](with_blue_filter/ndvi_image20160921-0700sc.jpg)
+
+### 12:00 noon 
+
+![alt text](with_blue_filter/image20160921-1203sc.jpg) ![alt text](with_blue_filter/ndvi_image20160921-1203sc.jpg) 
+
+### 5:00 PM  
+
+![alt text](with_blue_filter/image20160921-1707sc.jpg) ![alt text](with_blue_filter/ndvi_image20160921-1707sc.jpg)
 
 ---
 
