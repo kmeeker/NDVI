@@ -134,15 +134,15 @@ cron
 ## Photos
 ### 7:00 AM     
 
-![alt text](with_blue_filter/image20160921-0700sc.jpg) ![alt text](with_blue_filter/ndvi_image20160921-0700sc.jpg)
+![alt text](figures/image20160921-0700sc.jpg) ![alt text](figures/ndvi_image20160921-0700sc.jpg)
 
 ### 12:00 noon 
 
-![alt text](with_blue_filter/image20160921-1203sc.jpg) ![alt text](with_blue_filter/ndvi_image20160921-1203sc.jpg) 
+![alt text](figures/image20160921-1203sc.jpg) ![alt text](figures/ndvi_image20160921-1203sc.jpg) 
 
 ### 5:00 PM  
 
-![alt text](with_blue_filter/image20160921-1707sc.jpg) ![alt text](with_blue_filter/ndvi_image20160921-1707sc.jpg)
+![alt text](figures/image20160921-1707sc.jpg) ![alt text](figures/ndvi_image20160921-1707sc.jpg)
 
 ---
 
