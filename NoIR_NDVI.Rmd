@@ -2,7 +2,8 @@
 title: "Plant Photosynthesis Measurement using RPi NoIR Camera - <small> https://github.com/kmeeker/NDVI </small>"
 author: "Kirsten Meeker" 
 date: "Oct 1, 2016"
-output: html_document
+output: md_document
+<!--- output1: html_document --->
 <!--- output: slidy_presentation --->
 ---
 
