@@ -2,8 +2,8 @@
 title: "Plant Photosynthesis Measurement using RPi NoIR Camera - <small> https://github.com/kmeeker/NDVI </small>"
 author: "Kirsten Meeker" 
 date: "Oct 1, 2016"
-<!--- output: html_document --->
-output: slidy_presentation
+output: html_document
+<!--- output: slidy_presentation --->
 ---
 
 <style>
@@ -95,7 +95,7 @@ https://en.wikipedia.org/wiki/Transpiration
 
 ---
 
-### Stomata (Greek stÃ³ma mouth)
+### Stomata (Greek stóma mouth)
 Guard cells occur in pairs with a gap between them that forms a stomatal pore. The stomatal pores are largest when water is freely available and the guard cells turgid, and closed when water availability is critically low and the guard cells become flaccid. Guard cells perceive and process environmental and endogenous stimuli such as light, humidity, CO2 concentration, temperature, drought, and plant hormones to trigger cellular responses resulting in stomatal opening or closure. https://en.wikipedia.org/wiki/Guard_cell
 
 <center>![alt text](figures/Opening_and_Closing_of_Stoma.png)</center>  
